@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Script-Whiz
 - 👀 I’m interested in learning python.
-- 🌱 I’m currently studying at TripleTen bootcamp. I also just completed the Data Science professional certification at Codecademy.com
+- 🌱 Graduate of TripleTen Data Science bootcamp. I also just completed the Data Science professional certification at Codecademy.com
 - 💞️ 
 - 📫 How to reach me ...
 - 😄 
