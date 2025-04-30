@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Script-Whiz. Here you will find coding projects that I created using python.
 - 👀 Graduate of @TripleTen 8 month Data Science bootcamp, Feb. 2025. 
-- 🌱 Graduate of @Codecademy Data Science: Machine Learning bootcamp, in March 2024.
+- 🌱 Graduate of @Codecademy Data Science: Machine Learning 35 week bootcamp, in March 2024.
 - 💞️ I love python, linux, datasets, dogs, and gardening.
 - 📫 You can reach me at: data.wrangler.extraordinaire@gmail.com / (707)364-2514 /
   https://www.linkedin.com/in/deborah-thomas-8151b31/
